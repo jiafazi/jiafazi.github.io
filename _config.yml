@@ -6,8 +6,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 #highlighter: pygments
 
-assets: https://miaochiahao.github.io/assets
-baseurl: https://miaochiahao.github.io
+assets: https://jiafazi.github.io/assets
+baseurl: https://jiafazi.github.io
 
 # pagination
 paginate: 10
@@ -27,8 +27,8 @@ kramdown:
     input: GFM
 highlighter: rouge
 
-title : Miao Chiahao's Blog
-tagline: 此后如竟没有炬火，我便是唯一的光，我真是学英语的
+title : wohaolihai's Blog
+tagline: 我是卤蛋的爸爸？恩
 
 defaults:
   -
@@ -83,15 +83,15 @@ mathjax: false      #enable mathjax if true
 
 #### Author information
 author:
-  name: Miao Chiahao      ## e.g. wuchong Author name
-  intro_line1:  "I'm Miao Chiahao."    ## your introduction on the bottom of the page
+  name: jiafazi       ## e.g. wuchong Author name
+#  intro_line1:  "."    ## your introduction on the bottom of the page
   intro_line2:  "Too simple, sometimes naive."  ## the 2nd line
-  weibo: 5451714789      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier: 8266a57e  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina: 5451714789      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
+#  weibo: 5451714789      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+#  weibo_verifier: 8266a57e  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+#  tsina: 5451714789      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
 #  douban: 62234732     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
-  zhihu: miao-jia-hao      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email: miaojiahao@hnu.edu.cn      ## e.g. imjark@gmail.com
+#  zhihu: miao-jia-hao      ## e.g. jark  for http://www.zhihu.com/people/jark
+#  email: miaojiahao@hnu.edu.cn      ## e.g. imjark@gmail.com
 #  twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github: miaochiahao     ## e.g. wuchong for https://github.com/wuchong
 #  facebook:   ## e.g. imjark for https://facebook.com/imjark
@@ -118,7 +118,7 @@ links:
 excerpt_separator: <!--more-->
 
 #### Comment
-duoshuo_shortname: chiahao   ## e.g. wuchong   your duoshuo short name. #这里需要配置，应该是评论区
+duoshuo_shortname: jiafazi   ## e.g. wuchong   your duoshuo short name. #这里需要配置，应该是评论区
 disqus_shortname:     ## e.g. wuchong   your disqus short name.
 
 #### Share button
